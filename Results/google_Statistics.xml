@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="google">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2020-11-11 16:29:44 -0500</FirstRun>
+  <LastRun>2020-11-11 16:31:02 -0500</LastRun>
+  <TotalTimeOnSuccess>8.157000</TotalTimeOnSuccess>
+ </script>
+</statistics>

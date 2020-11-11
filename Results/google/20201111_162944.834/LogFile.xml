@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="google_script" package="google.suite" timestamp="2020-11-11 16:29:44.834 -0500"
+ tests="1"  failures="1" errors="0" time="0.328000">
+  <properties>
+   <property name="RunDate" value="2020-11-11 16:29:44.834 -0500"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="google.script" assertions="1" status="failure"  time="0.297">
+    <failure type="FAILURE" message="SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got 'r' and '' -- Execution Time 0:00:00 google.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

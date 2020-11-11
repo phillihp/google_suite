@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running google.script",
+				"identifier": "START",
+				"timestamp": "2020-11-11 16:29:44.850 -0500"
+			},
+		{
+				"message": "(Duration:\"0.297\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2020-11-11 16:29:44 -0500\", Successes:\"0\", TestCase:\"google.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2020-11-11 16:29:45.162 -0500"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Runtime Exception Invalid operands for addition: expected numbers, dates and/or lists; got 'r' and '' -- Execution Time 0:00:00 google.script",
+				"identifier": "FAILURE",
+				"timestamp": "2020-11-11 16:29:45.317 -0500"
+			}
+	],
+	"createdTimestamp": "2020-11-11 16:29:44.865 -0500"
+}

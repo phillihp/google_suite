@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="google_script" package="google.suite" timestamp="2020-11-11 16:31:02.310 -0500"
+ tests="1"  failures="0" errors="0" time="8.157000">
+  <properties>
+   <property name="RunDate" value="2020-11-11 16:31:02.310 -0500"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="google.script" assertions="1" status="success"  time="8.126">
+  </testcase>
+ </testsuite>
+</testsuites>

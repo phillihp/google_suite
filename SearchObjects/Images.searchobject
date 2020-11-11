@@ -1,0 +1,29 @@
+{
+	"lastmodifieddate": 1605130082.665,
+	"ocrcapturestring": "Images",
+	"originalcapturelocation": [
+		818,
+		94,
+		51,
+		17
+	],
+	"createddate": 1605130082.665,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"name": "Images.png",
+				"connectionname": "canalQApool20",
+				"type": 1,
+				"capturerect": [
+					818,
+					94,
+					51,
+					17
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "canalQApool20",
+				"capturedocrtext": "Images"
+			}
+	],
+	"name": "Images"
+}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="google">
+ <run>
+  <RunDate>2020-11-11 16:29:44.834 -0500</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.328000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20201111_162944.834/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got &#x27;r&#x27; and &#x27;&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2020-11-11 16:31:02.310 -0500</RunDate>
+  <Status>Success</Status>
+  <Duration>8.157000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20201111_163102.310/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,7 @@
+﻿2020-11-11 16:31:02.325 -0500	START		Running google.script
+2020-11-11 16:31:02.544 -0500	typetext		[windowsKey]r	1	on_google	google.script
+2020-11-11 16:31:05.013 -0500	typetext		chrome https://www.google.com[return]	2	on_google	google.script
+2020-11-11 16:31:08.545 -0500	click	Images	at (843, 102)	3	on_google	google.script
+2020-11-11 16:31:10.342 -0500	typetext		eggplant[return]	4	on_google	google.script
+2020-11-11 16:31:10.467 -0500	EndTestCase		(Duration:"8.126", Errors:"0", Exceptions:"0", StartTime:"2020-11-11 16:31:02 -0500", Successes:"1", TestCase:"google.script", Warnings:"0")
+2020-11-11 16:31:10.576 -0500	SUCCESS		Execution Time 0:00:08 google.script

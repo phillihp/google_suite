@@ -1,0 +1,4 @@
+﻿TypeText windowsKey, "r"
+TypeText "chrome https://www.google.com",Return
+Click (Image:"Images", WaitFor:31)
+TypeText "eggplant",Return

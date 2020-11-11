@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2020-11-11 16:29:44.834 -0500,"Failure",0:00:00,1,0,0,"20201111_162944.834/LogFile.txt","","SenseTalk Runtime Exception -- Invalid operands for addition: expected numbers, dates and/or lists; got 'r' and ''",0
+2020-11-11 16:31:02.310 -0500,"Success",0:00:08,0,0,0,"20201111_163102.310/LogFile.txt","","",1

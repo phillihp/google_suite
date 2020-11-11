@@ -1,0 +1,53 @@
+{
+	"entries": [
+		{
+				"message": "Running google.script",
+				"identifier": "START",
+				"timestamp": "2020-11-11 16:31:02.325 -0500"
+			},
+		{
+				"handlerName": "on_google",
+				"timestamp": "2020-11-11 16:31:02.544 -0500",
+				"message": "[windowsKey]r",
+				"scriptName": "google.script",
+				"handlerLine": 1,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_google",
+				"timestamp": "2020-11-11 16:31:05.013 -0500",
+				"message": "chrome https://www.google.com[return]",
+				"scriptName": "google.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_google",
+				"timestamp": "2020-11-11 16:31:08.545 -0500",
+				"scriptName": "google.script",
+				"message": "at (843, 102)",
+				"image": "Images",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_google",
+				"timestamp": "2020-11-11 16:31:10.342 -0500",
+				"message": "eggplant[return]",
+				"scriptName": "google.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"8.126\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2020-11-11 16:31:02 -0500\", Successes:\"1\", TestCase:\"google.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2020-11-11 16:31:10.467 -0500"
+			},
+		{
+				"message": "Execution Time 0:00:08 google.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2020-11-11 16:31:10.576 -0500"
+			}
+	],
+	"createdTimestamp": "2020-11-11 16:31:02.341 -0500"
+}
